@@ -8,5 +8,6 @@ Esse é apenas um projeto de estudo.
 
 ⚠️ Projeto desenvolvido para fins educacionais
 
-#Como funciona?
+# Como funciona?
+
 Basta rodar o codigo que o mesmo irá gerar a apuração e irá mostrar um grafico com os percentuais do momento.
